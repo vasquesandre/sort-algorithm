@@ -7,7 +7,7 @@ Here is the project for the 4th semester of the Computer Science course, where a
 
 #### _Portuguese Version_
 
-Este é o projeto do 4º semestre da faculdade de Ciências da Computação, onde foi desenvolvido um código com 3 algoritmos de ordenação, sendo eles: BubbleSort, SelectionSort e QuickSort.
+Este é o projeto do 4º semestre da faculdade de Ciência da Computação, onde foi desenvolvido um código com 3 algoritmos de ordenação, sendo eles: BubbleSort, SelectionSort e QuickSort.
 A intenção deste trabalho é medir o tempo que cada algoritmo leva para ordenar os números. O código lê 3 arquivos contendo diferentes quantidades de números (1000, 5000 ou 10000) e então entra em um loop onde podemos escolher o arquivo e o algoritmo de ordenação a ser utilizado.
 
 
